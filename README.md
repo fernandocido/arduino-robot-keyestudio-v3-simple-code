@@ -1,5 +1,7 @@
 # Keyestudio Arduino Tank Robot V3
 
+![a picture of Cora, the Arduino Tank Robot V3](https://github.com/fernandocido/arduino-robot-keyestudio-v3-simple-code/blob/main/cora.png)
+
 This is a simple code for controlling the movements of the Keyestudio Arduino Tank Robot V3, as well as avoiding front collisions and displaying images on the dot matrix. It was created with the help of ChatGPT 4.0.
 
 ## Features
